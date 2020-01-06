@@ -1,0 +1,1 @@
+This is Mango's first git project!
